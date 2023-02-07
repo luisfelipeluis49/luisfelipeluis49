@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/luisfelipeluis49/luisfelipeluis49/donut.gif)
+![](https://github.com/luisfelipeluis49/luisfelipeluis49/blob/main/donut.gif)
 
 <!--
 **luisfelipeluis49/luisfelipeluis49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
