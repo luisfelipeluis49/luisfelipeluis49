@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hello world, this is Luís 👋
 
+
+- 🔭 I’m currently working on my own OS write in Rust, because it would be fun to see if it runs on WASM on the web!
+
+- 🌱 I’m currently learning Rust, SurrealDB, WASM and another things.
+
+- 👯 I’m looking to collaborate on open source projects
+
+- ⚡ Fun fact: I really like this C++ Donut, it's the contemplation of the art of code
 ![](https://github.com/luisfelipeluis49/luisfelipeluis49/blob/main/donut.gif)
 
 <!--
