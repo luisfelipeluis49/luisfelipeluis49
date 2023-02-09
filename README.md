@@ -1,7 +1,7 @@
 ### Hello world, this is Luís 👋
 
 
-- 🔭 I’m currently working on my own OS write in Rust, because it would be fun to see if it runs on WASM on the web!
+- 🔭 I’m currently working on my own OS, because it would be fun to see if it runs on WASM on the web!
 
 - 🌱 I’m currently learning Rust, SurrealDB, WASM and another things.
 
