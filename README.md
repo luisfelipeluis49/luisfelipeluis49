@@ -1,4 +1,7 @@
-### Hello world, this is Luís 👋
+### Hello world, this is Luís, a Fullstack Developer 👋
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=luisfelipeluis49&theme=gruvbox&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipeluis49&hide=HTML,CSS,javascript&show_icons=true&theme=tokyonight&locale=en&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on my own OS, because it would be fun to see if it runs on WASM on the web!
