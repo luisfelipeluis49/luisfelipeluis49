@@ -6,7 +6,9 @@
 
 - 🔭 I’m currently working on my own OS, because it would be fun to see if it runs on WASM on the web!
 
-- 🌱 I’m currently learning Rust, SurrealDB, WASM and another things.
+- 🌱 I’m currently improving my skills on JavaScript, Node.js, TypeScript and another things.
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66c3666934a9226f3810108c?variant=dark&roadmaps=javascript%2Cnodejs%2Ctypescript%2Cgit-github)](https://roadmap.sh)
 
 - 👯 I’m looking to collaborate on open source projects
 
